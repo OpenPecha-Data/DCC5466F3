@@ -378,93 +378,93 @@ annotations:
     reference: ''
     span:
       start: 69867
-      end: 71211
+      end: 71209
     note_ref: 3893d66d1a0d400a8b562b6ee17f8c6c
   cdb43df3affc48d691af96a1921fdb17:
     imgnum: 1175
     reference: ''
     span:
-      start: 71213
-      end: 72426
+      start: 71211
+      end: 72425
     note_ref: 3893d66d1a0d400a8b562b6ee17f8c6c
   294193aedda74165bffb2667340fc4e1:
     imgnum: 1176
     reference: ''
     span:
-      start: 72428
-      end: 73763
+      start: 72427
+      end: 73760
     note_ref: 3893d66d1a0d400a8b562b6ee17f8c6c
   d2e3c28ad7fb4c4ca0611bcfa9b29ae0:
     imgnum: 1177
     reference: ''
     span:
-      start: 73765
-      end: 75025
+      start: 73762
+      end: 75022
     note_ref: 3893d66d1a0d400a8b562b6ee17f8c6c
   a5abfc187cb24562864c3ec348ef1337:
     imgnum: 1178
     reference: ''
     span:
-      start: 75027
-      end: 76341
+      start: 75024
+      end: 76338
     note_ref: 3893d66d1a0d400a8b562b6ee17f8c6c
   662d1ff208d54c3f9296c4023b3387c6:
     imgnum: 1179
     reference: ''
     span:
-      start: 76343
-      end: 77676
+      start: 76340
+      end: 77673
     note_ref: 3acd210daf5f405e9a3e4b3fbb1b8d5c
   90910e17c86344b19c644fc38ded1922:
     imgnum: 1180
     reference: ''
     span:
-      start: 77678
-      end: 78946
+      start: 77675
+      end: 78943
     note_ref: 3acd210daf5f405e9a3e4b3fbb1b8d5c
   2b83e65fb5cd43b89492f318509e10e6:
     imgnum: 1181
     reference: ''
     span:
-      start: 78948
-      end: 80442
+      start: 78945
+      end: 80439
     note_ref: 3acd210daf5f405e9a3e4b3fbb1b8d5c
   eeb168a0da4848388d7ffb2d413f19ec:
     imgnum: 1182
     reference: ''
     span:
-      start: 80444
-      end: 82507
+      start: 80441
+      end: 82504
   323f3ae6a71941f7a578523ede1e28b2:
     imgnum: 1183
     reference: ''
     span:
-      start: 82509
-      end: 84470
+      start: 82506
+      end: 84467
   2b2391323e4c4884ab064aab707d303e:
     imgnum: 1184
     reference: ''
     span:
-      start: 84472
-      end: 86377
+      start: 84469
+      end: 86374
   80e528e7b9494a90be4372fcb584e68c:
     imgnum: 1185
     reference: ''
     span:
-      start: 86379
-      end: 88366
+      start: 86376
+      end: 88363
   3893d66d1a0d400a8b562b6ee17f8c6c:
     imgnum: 1186
     reference: ''
     span:
-      start: 88368
-      end: 90258
+      start: 88365
+      end: 90255
   3acd210daf5f405e9a3e4b3fbb1b8d5c:
     imgnum: 1187
     reference: ''
     span:
-      start: 90260
-      end: 90907
+      start: 90257
+      end: 90904
 local_ids:
   4acbe545de6e4260ad6e3f7418fb6f47: 200000
   621380d7d55a4af1afe7c55b2cc561d8: 200001
