@@ -399,72 +399,72 @@ annotations:
     reference: ''
     span:
       start: 73762
-      end: 75022
+      end: 75021
     note_ref: 3893d66d1a0d400a8b562b6ee17f8c6c
   a5abfc187cb24562864c3ec348ef1337:
     imgnum: 1178
     reference: ''
     span:
-      start: 75024
-      end: 76338
+      start: 75023
+      end: 76337
     note_ref: 3893d66d1a0d400a8b562b6ee17f8c6c
   662d1ff208d54c3f9296c4023b3387c6:
     imgnum: 1179
     reference: ''
     span:
-      start: 76340
-      end: 77673
+      start: 76339
+      end: 77672
     note_ref: 3acd210daf5f405e9a3e4b3fbb1b8d5c
   90910e17c86344b19c644fc38ded1922:
     imgnum: 1180
     reference: ''
     span:
-      start: 77675
-      end: 78943
+      start: 77674
+      end: 78942
     note_ref: 3acd210daf5f405e9a3e4b3fbb1b8d5c
   2b83e65fb5cd43b89492f318509e10e6:
     imgnum: 1181
     reference: ''
     span:
-      start: 78945
-      end: 80439
+      start: 78944
+      end: 80438
     note_ref: 3acd210daf5f405e9a3e4b3fbb1b8d5c
   eeb168a0da4848388d7ffb2d413f19ec:
     imgnum: 1182
     reference: ''
     span:
-      start: 80441
-      end: 82504
+      start: 80440
+      end: 82503
   323f3ae6a71941f7a578523ede1e28b2:
     imgnum: 1183
     reference: ''
     span:
-      start: 82506
-      end: 84467
+      start: 82505
+      end: 84466
   2b2391323e4c4884ab064aab707d303e:
     imgnum: 1184
     reference: ''
     span:
-      start: 84469
-      end: 86374
+      start: 84468
+      end: 86373
   80e528e7b9494a90be4372fcb584e68c:
     imgnum: 1185
     reference: ''
     span:
-      start: 86376
-      end: 88363
+      start: 86375
+      end: 88362
   3893d66d1a0d400a8b562b6ee17f8c6c:
     imgnum: 1186
     reference: ''
     span:
-      start: 88365
-      end: 90255
+      start: 88364
+      end: 90254
   3acd210daf5f405e9a3e4b3fbb1b8d5c:
     imgnum: 1187
     reference: ''
     span:
-      start: 90257
-      end: 90904
+      start: 90256
+      end: 90903
 local_ids:
   4acbe545de6e4260ad6e3f7418fb6f47: 200000
   621380d7d55a4af1afe7c55b2cc561d8: 200001
